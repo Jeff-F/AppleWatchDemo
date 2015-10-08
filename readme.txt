@@ -1,1 +1,2 @@
-Git is a version contorl system
+Git is a version contorl system.
+Creating a new branch is quick.
